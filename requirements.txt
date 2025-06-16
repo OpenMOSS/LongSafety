@@ -1,0 +1,9 @@
+datasets==3.0.0
+datasets==2.17.0
+filelock==3.17.0
+rouge_score==0.1.2
+tiktoken==0.7.0
+torch==2.5.1
+tqdm==4.66.5
+transformers==4.46.1
+vllm==0.7.1
